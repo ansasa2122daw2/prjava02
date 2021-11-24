@@ -1,0 +1,29 @@
+1.
+git branch branca00
+git checkout branca00
+git status
+
+5.
+git checkout main
+git status
+
+6.
+No, porque es otra branca.
+
+7.
+Sí porque lo cambie en esta branca.
+
+10b.
+git merge branca00
+
+12.
+git push
+
+12c.
+Porque se fusionaron
+
+14a.
+git push origin branca01
+
+14c.
+A 1
